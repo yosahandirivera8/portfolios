@@ -73,15 +73,15 @@ export const portfolio = {
     },
     {
       id: "03",
-      title: "STUDYBUDDY // Collaboration Webapp",
+      title: "LockIn // Memorization Prototype",
       client: "PERSONAL PROJECT",
-      year: "2022",
-      tags: ["HTML", "CSS", "JAVASCRIPT"],
+      year: "2026",
+      tags: ["FIGMA", "FIGMAJAM"],
       summary:
-        "Dynamic web application for streamlined student collaboration and real-time schedule matching. Bootstrap-powered mobile-first design improved cross-device responsiveness by 50%.",
+        "Dynamic high-fidelity prototype to increase teacher's way of memorizing their student's faces at a faster rate.",
       cover: "https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif",
-      imageAlt: "STUDYBUDDY collaboration webapp screenshot",
-      link : "https://yosahandirivera8.github.io/StudyBuddy/",
+      imageAlt: "FIGMA collaboration webapp screenshot",
+      link : "https://www.figma.com/design/bLnQFtSPYXn6dQtpgUhI9y/Untitled?node-id=2009-250&t=7N5hnNPrQNAD2W4m-1",
     },
     
   ],
