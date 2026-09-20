@@ -76,7 +76,7 @@ export const portfolio = {
       title: "LockIn // Memorization Prototype",
       client: "PERSONAL PROJECT",
       year: "2026",
-      tags: ["FIGMA", "FIGMAJAM"],
+      tags: ["FIGMA", "FIGMAJAM", "WIREFRAMING", "USER RESEARCH"],
       summary:
         "Dynamic high-fidelity prototype to increase teacher's way of memorizing their student's faces at a faster rate.",
       cover: "https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif",
