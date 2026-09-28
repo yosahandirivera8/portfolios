@@ -69,7 +69,7 @@ export const portfolio = {
       summary:
         "Engineered a facial recognition algorithm in Python that selects the closest-matching image for a reference input. Integrated imgbeddings for face embeddings, PIL for image preprocessing, and psycopg2 for database interaction. Boosted retrieval precision by isolating and embedding cropped face regions prior to matching. Built and deployed the interface on Anvil for accessible, browser-based use",
       cover: "https://i.pinimg.com/736x/20/79/2a/20792a08b9eeaf1182c9cc5345c4ebf7.jpg",
-      link: "https://github.com/yosahandirivera8/Caffeine_effects.git",
+      link: "https://github.com/yosahandirivera8/Facial-Recognition.git",
     },
     {
       id: "03",
