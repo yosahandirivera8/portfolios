@@ -62,12 +62,12 @@ export const portfolio = {
 
     {
       id: "02",
-      title: "CAFFEINE × COGNITION // Research Study",
-      client: "UCSD RESEARCH",
-      year: "2025",
-      tags: ["DATA VIZ", "PYTHON", "RESEARCH"],
+      title: "FACIAL RECOGNITION // MACHINE LEARNING PROJECT",
+      client: "PERSONAL PROJECT",
+      year: "2026",
+      tags: ["AIVEN", "PYTHON", "PIL", "PSYCOPG2", "IMGBEDDINGS", "CV2"],
       summary:
-        "Collected, cleaned, and analyzed survey + behavioral data from student participants using Python (Pandas, Seaborn). Built interactive dashboards visualizing correlations between caffeine intake and cognitive performance.",
+        "Engineered a facial recognition algorithm in Python that selects the closest-matching image for a reference input. Integrated imgbeddings for face embeddings, PIL for image preprocessing, and psycopg2 for database interaction. Boosted retrieval precision by isolating and embedding cropped face regions prior to matching. Built and deployed the interface on Anvil for accessible, browser-based use",
       cover: "https://i.pinimg.com/736x/20/79/2a/20792a08b9eeaf1182c9cc5345c4ebf7.jpg",
       link: "https://github.com/yosahandirivera8/Caffeine_effects.git",
     },
