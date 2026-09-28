@@ -1,3 +1,4 @@
+import FluidCursor from '@/components/ui/FluidCursor';
 import { createFileRoute } from "@tanstack/react-router";
 import { portfolio } from "@/lib/portfolio-data";
 
@@ -22,6 +23,8 @@ export const Route = createFileRoute("/")({
 function Portfolio() {
   return (
     <main className="min-h-screen bg-background text-foreground grain overflow-x-hidden">
+      <FluidCursor />
+         <div className='fixed top-0 left-0 z-[60] pointer-events-none'></div>
       <Nav />
       <Hero />
       <About />
